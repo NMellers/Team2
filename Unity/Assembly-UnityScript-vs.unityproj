@@ -46,6 +46,28 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\ComputerGui\Scripts\CloseButton.js" />
+     <Compile Include="Assets\ComputerGui\Scripts\ComputerClickScript.js" />
+     <Compile Include="Assets\ComputerGui\Scripts\EmailIconScript .js" />
+     <Compile Include="Assets\ComputerGui\Scripts\EmailIconScript.js" />
+     <Compile Include="Assets\ComputerGui\Scripts\EmailMenuCloseScript.js" />
+     <Compile Include="Assets\ComputerGui\Scripts\EmailMenuScript .js" />
+     <Compile Include="Assets\ComputerGui\Scripts\EmailMenuScript.js" />
+     <Compile Include="Assets\ComputerGui\Scripts\GameMenuCloseScript.js" />
+     <Compile Include="Assets\ComputerGui\Scripts\GameMenuScript.js" />
+     <Compile Include="Assets\ComputerGui\Scripts\GamesIconScript.js" />
+     <Compile Include="Assets\ComputerGui\Scripts\HUDscript.js" />
+     <Compile Include="Assets\ComputerGui\Scripts\MenuScript.js" />
+     <Compile Include="Assets\ComputerGui\Scripts\ReviewButtonScript.js" />
+     <Compile Include="Assets\ComputerGui\Scripts\ReviewCloseButton.js" />
+     <Compile Include="Assets\ComputerGui\Scripts\ScoreScript.js" />
+     <Compile Include="Assets\ComputerGui\Scripts\reviewBackgroundScript.js" />
+     <Compile Include="Assets\ComputerGui\Sprites\GuiEditableBox.js" />
+     <Compile Include="Assets\ComputerGui\Standard Assets\Scripts\Camera Scripts\MouseOrbit.js" />
+     <Compile Include="Assets\ComputerGui\Standard Assets\Scripts\Camera Scripts\SmoothFollow.js" />
+     <Compile Include="Assets\ComputerGui\Standard Assets\Scripts\Camera Scripts\SmoothLookAt.js" />
+     <Compile Include="Assets\ComputerGui\Standard Assets\Scripts\General Scripts\DragRigidbody.js" />
+     <Compile Include="Assets\Main Menu\Menu.js" />
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js" />
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\FirstPersonControl.js" />
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\FollowTransform.js" />
@@ -58,6 +80,7 @@
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\SmoothFollow2D.js" />
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\ZoomCamera.js" />
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\tapcontrol.js" />
+     <Compile Include="Assets\togameScript.js" />
      <None Include="Assets\Standard Assets\Projectors\Guidelines.txt" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Particle Shaders\Mobile Multiply Culled.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Miscellaneous Shaders\Mobile Background.shader" />

@@ -46,9 +46,25 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Sprites\Scripts\CharacterController.cs" />
-     <Compile Include="Assets\Sprites\Scripts\ComputerScript.cs" />
-     <Compile Include="Assets\Sprites\Scripts\GuiScript.cs" />
+     <Compile Include="Assets\ComputerGui\Scripts\HUD.cs" />
+     <Compile Include="Assets\ComputerGui\Scripts\Save.cs" />
+     <Compile Include="Assets\ComputerGui\Standard Assets\Scripts\General Scripts\ActivateTrigger.cs" />
+     <Compile Include="Assets\Main Scene\Sprites\Scripts\CharacterController.cs" />
+     <Compile Include="Assets\Main Scene\Sprites\Scripts\ComputerScript.cs" />
+     <Compile Include="Assets\Main Scene\Sprites\Scripts\GuiScript.cs" />
+     <Compile Include="Assets\Main Scene\Sprites\Scripts\Options.cs" />
+     <Compile Include="Assets\Platformer\Scripts\EndGame.cs" />
+     <Compile Include="Assets\Platformer\Scripts\Player_Movement.cs" />
+     <Compile Include="Assets\Space_Game\GameCode\EnemyBullet.cs" />
+     <Compile Include="Assets\Space_Game\GameCode\EnemyMovement.cs" />
+     <Compile Include="Assets\Space_Game\GameCode\EnemyShoot.cs" />
+     <Compile Include="Assets\Space_Game\GameCode\EnemySpawn.cs" />
+     <Compile Include="Assets\Space_Game\GameCode\OffScreen.cs" />
+     <Compile Include="Assets\Space_Game\GameCode\PlayerBullet.cs" />
+     <Compile Include="Assets\Space_Game\GameCode\PlayerMovement.cs" />
+     <Compile Include="Assets\Space_Game\GameCode\PlayerShooting.cs" />
+     <Compile Include="Assets\Space_Game\GameCode\TimerScript.cs" />
+     <Compile Include="Assets\Title Screen\Load.cs" />
      <None Include="Assets\Standard Assets\Projectors\Guidelines.txt" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Particle Shaders\Mobile Multiply Culled.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Miscellaneous Shaders\Mobile Background.shader" />
