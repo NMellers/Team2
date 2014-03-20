@@ -1,0 +1,342 @@
+Initialize engine version: 4.3.4f1 (e444f76e01cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.2723]
+    Renderer: NVIDIA GeForce GT 640 
+    Vendor:   NVIDIA
+    VRAM:     1990 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\computing\Desktop\Unity\Second_Playable_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\computing\Desktop\Unity\Second_Playable_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\computing\Desktop\Unity\Second_Playable_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\computing\Desktop\Unity\Second_Playable_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\computing\Desktop\Unity\Second_Playable_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\computing\Desktop\Unity\Second_Playable_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\computing\Desktop\Unity\Second_Playable_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\computing\Desktop\Unity\Second_Playable_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\computing\Desktop\Unity\Second_Playable_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\computing\Desktop\Unity\Second_Playable_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.058 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.329413 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 303.
+Total: 1.871083 ms (FindLiveObjects: 0.021020 ms CreateObjectMapping: 0.014113 ms MarkObjects: 0.159151 ms  DeleteObjects: 0.281968 ms)
+
+Initialize engine version: 4.3.4f1 (e444f76e01cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.2723]
+    Renderer: NVIDIA GeForce GT 640 
+    Vendor:   NVIDIA
+    VRAM:     1990 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\computing\Desktop\Unity\Second_Playable_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\computing\Desktop\Unity\Second_Playable_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\computing\Desktop\Unity\Second_Playable_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\computing\Desktop\Unity\Second_Playable_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\computing\Desktop\Unity\Second_Playable_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\computing\Desktop\Unity\Second_Playable_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\computing\Desktop\Unity\Second_Playable_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\computing\Desktop\Unity\Second_Playable_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\computing\Desktop\Unity\Second_Playable_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\computing\Desktop\Unity\Second_Playable_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.041 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.348932 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 303.
+Total: 7.201464 ms (FindLiveObjects: 0.022521 ms CreateObjectMapping: 0.014113 ms MarkObjects: 0.176568 ms  DeleteObjects: 5.538779 ms)
+
+Initialize engine version: 4.3.4f1 (e444f76e01cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.2723]
+    Renderer: NVIDIA GeForce GT 640 
+    Vendor:   NVIDIA
+    VRAM:     1990 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\computing\Desktop\Unity\Second_Playable_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\computing\Desktop\Unity\Second_Playable_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\computing\Desktop\Unity\Second_Playable_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\computing\Desktop\Unity\Second_Playable_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\computing\Desktop\Unity\Second_Playable_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\computing\Desktop\Unity\Second_Playable_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\computing\Desktop\Unity\Second_Playable_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\computing\Desktop\Unity\Second_Playable_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\computing\Desktop\Unity\Second_Playable_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\computing\Desktop\Unity\Second_Playable_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.039 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.485562 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 303.
+Total: 1.847661 ms (FindLiveObjects: 0.022521 ms CreateObjectMapping: 0.014113 ms MarkObjects: 0.171463 ms  DeleteObjects: 0.284371 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1699)
+
+UnloadTime: 0.549223 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 172.
+Total: 9.670117 ms (FindLiveObjects: 0.011711 ms CreateObjectMapping: 0.012612 ms MarkObjects: 0.155548 ms  DeleteObjects: 8.156674 ms)
+
+UnloadTime: 0.313799 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1351.
+Total: 1.797513 ms (FindLiveObjects: 0.142936 ms CreateObjectMapping: 0.018617 ms MarkObjects: 0.223713 ms  DeleteObjects: 0.009008 ms)
+
+Initialize engine version: 4.3.4f1 (e444f76e01cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.2723]
+    Renderer: NVIDIA GeForce GT 640 
+    Vendor:   NVIDIA
+    VRAM:     1990 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\computing\Desktop\Unity\Second_Playable_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\computing\Desktop\Unity\Second_Playable_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\computing\Desktop\Unity\Second_Playable_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\computing\Desktop\Unity\Second_Playable_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\computing\Desktop\Unity\Second_Playable_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\computing\Desktop\Unity\Second_Playable_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\computing\Desktop\Unity\Second_Playable_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\computing\Desktop\Unity\Second_Playable_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\computing\Desktop\Unity\Second_Playable_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\computing\Desktop\Unity\Second_Playable_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.040 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.209599 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 303.
+Total: 8.119739 ms (FindLiveObjects: 0.012612 ms CreateObjectMapping: 0.007206 ms MarkObjects: 0.093088 ms  DeleteObjects: 7.289748 ms)
+
+UnloadTime: 0.563637 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 296.
+Total: 3.767391 ms (FindLiveObjects: 0.021020 ms CreateObjectMapping: 0.014413 ms MarkObjects: 0.172964 ms  DeleteObjects: 2.150950 ms)
+
+UnloadTime: 0.836597 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 305.
+Total: 5.436682 ms (FindLiveObjects: 0.021020 ms CreateObjectMapping: 0.014714 ms MarkObjects: 0.182874 ms  DeleteObjects: 3.849068 ms)
+
+UnloadTime: 0.542316 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 174.
+Total: 7.694234 ms (FindLiveObjects: 0.012311 ms CreateObjectMapping: 0.012912 ms MarkObjects: 0.173265 ms  DeleteObjects: 6.132145 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1699)
+
+UnloadTime: 0.303589 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 298.
+Total: 1.606831 ms (FindLiveObjects: 0.021020 ms CreateObjectMapping: 0.015014 ms MarkObjects: 0.194885 ms  DeleteObjects: 0.005705 ms)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at PlayerShooting.Fire () [0x00000] in <filename unknown>:0 
+  at PlayerShooting.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at PlayerShooting.Fire () [0x00000] in <filename unknown>:0 
+  at PlayerShooting.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at PlayerShooting.Fire () [0x00000] in <filename unknown>:0 
+  at PlayerShooting.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at PlayerShooting.Fire () [0x00000] in <filename unknown>:0 
+  at PlayerShooting.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at PlayerShooting.Fire () [0x00000] in <filename unknown>:0 
+  at PlayerShooting.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at PlayerShooting.Fire () [0x00000] in <filename unknown>:0 
+  at PlayerShooting.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at PlayerShooting.Fire () [0x00000] in <filename unknown>:0 
+  at PlayerShooting.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at PlayerShooting.Fire () [0x00000] in <filename unknown>:0 
+  at PlayerShooting.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at PlayerShooting.Fire () [0x00000] in <filename unknown>:0 
+  at PlayerShooting.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at PlayerShooting.Fire () [0x00000] in <filename unknown>:0 
+  at PlayerShooting.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at PlayerShooting.Fire () [0x00000] in <filename unknown>:0 
+  at PlayerShooting.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at PlayerShooting.Fire () [0x00000] in <filename unknown>:0 
+  at PlayerShooting.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at PlayerShooting.Fire () [0x00000] in <filename unknown>:0 
+  at PlayerShooting.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at PlayerShooting.Fire () [0x00000] in <filename unknown>:0 
+  at PlayerShooting.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at PlayerShooting.Fire () [0x00000] in <filename unknown>:0 
+  at PlayerShooting.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at PlayerShooting.Fire () [0x00000] in <filename unknown>:0 
+  at PlayerShooting.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at PlayerShooting.Fire () [0x00000] in <filename unknown>:0 
+  at PlayerShooting.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at PlayerShooting.Fire () [0x00000] in <filename unknown>:0 
+  at PlayerShooting.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at PlayerShooting.Fire () [0x00000] in <filename unknown>:0 
+  at PlayerShooting.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at PlayerShooting.Fire () [0x00000] in <filename unknown>:0 
+  at PlayerShooting.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at PlayerShooting.Fire () [0x00000] in <filename unknown>:0 
+  at PlayerShooting.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at PlayerShooting.Fire () [0x00000] in <filename unknown>:0 
+  at PlayerShooting.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: needs reset, doing it
+FullResetD3DDevice
+ResetD3DDevice
+dev->Reset
+D3Dwindow device not lost anymore
