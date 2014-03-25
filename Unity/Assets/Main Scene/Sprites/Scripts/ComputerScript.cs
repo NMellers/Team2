@@ -4,7 +4,7 @@ using System.Collections;
 public class ComputerScript : MonoBehaviour {
 
 	//Creates a computer GUI prefab
-	public GameObject ComputerGui; 
+	public GameObject ComputerGui;
 	public bool computerOn = false;
 
 	// Use this for initialization

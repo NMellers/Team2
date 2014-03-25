@@ -9,7 +9,10 @@ public class CharacterController : MonoBehaviour {
 	// Use this for initialization
 	void Start () 
 	{
-
+		if(Application.loadedLevelName == "TradeScene")
+		{
+			speed = 1.0f;
+		}
 	}
 	
 	// Update is called once per frame

@@ -1,14 +1,6 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Platformer\Scripts\Player_Movement.cs">
-    <Files>
-      <File FileName="Assets\Title Screen\Load.cs" Line="1" Column="1" />
-      <File FileName="Assets\ComputerGui\Scripts\Save.cs" Line="1" Column="1" />
-      <File FileName="Assets\ComputerGui\Scripts\HUD.cs" Line="1" Column="1" />
-      <File FileName="Assets\Platformer\Scripts\EndGame.cs" Line="20" Column="28" />
-      <File FileName="Assets\Platformer\Scripts\Player_Movement.cs" Line="46" Column="28" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
